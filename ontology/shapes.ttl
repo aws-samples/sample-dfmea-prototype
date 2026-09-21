@@ -1,0 +1,47 @@
+@prefix sh:   <http://www.w3.org/ns/shacl#> .
+@prefix ont:  <https://dfmea.example.com/ontology/v0.1.0#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+ont:FailureModeShape
+    a sh:NodeShape ;
+    sh:targetClass ont:FailureMode ;
+    sh:property [
+        sh:path ont:severity ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:maxInclusive 10 ;
+        sh:minCount 1 ;
+        sh:message "severity must be an integer 1-10" ;
+    ] ;
+    sh:property [
+        sh:path ont:occurrence ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:maxInclusive 10 ;
+        sh:minCount 1 ;
+        sh:message "occurrence must be an integer 1-10" ;
+    ] ;
+    sh:property [
+        sh:path ont:detection ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:maxInclusive 10 ;
+        sh:minCount 1 ;
+        sh:message "detection must be an integer 1-10" ;
+    ] ;
+    sh:property [
+        sh:path ont:actionPriority ;
+        sh:in ( "H" "M" "L" ) ;
+        sh:minCount 1 ;
+        sh:message "actionPriority must be H, M, or L" ;
+    ] .
+
+ont:ComponentShape
+    a sh:NodeShape ;
+    sh:targetClass ont:Component ;
+    sh:property [
+        sh:path <http://www.w3.org/2000/01/rdf-schema#label> ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:message "Every Component must have an rdfs:label" ;
+    ] .

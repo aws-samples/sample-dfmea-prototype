@@ -1,0 +1,60 @@
+{
+  "total_rows": 18391,
+  "rf_train_rows": 14712,
+  "rf_test_rows": 3679,
+  "rf_cv_f1_macro_mean": 0.7027,
+  "rf_cv_f1_macro_std": 0.0203,
+  "rf_classification_report": {
+    "over_scored": {
+      "precision": 0.6446280991735537,
+      "recall": 0.9341317365269461,
+      "f1-score": 0.7628361858190709,
+      "support": 167.0
+    },
+    "under_scored": {
+      "precision": 0.4867549668874172,
+      "recall": 0.9363057324840764,
+      "f1-score": 0.6405228758169934,
+      "support": 157.0
+    },
+    "valid": {
+      "precision": 0.9933014354066986,
+      "recall": 0.928166915052161,
+      "f1-score": 0.9596302003081664,
+      "support": 3355.0
+    },
+    "accuracy": 0.9287849959228051,
+    "macro avg": {
+      "precision": 0.7082281671558898,
+      "recall": 0.9328681280210612,
+      "f1-score": 0.7876630873147435,
+      "support": 3679.0
+    },
+    "weighted avg": {
+      "precision": 0.9558574988183696,
+      "recall": 0.9287849959228051,
+      "f1-score": 0.9370793847700328,
+      "support": 3679.0
+    }
+  },
+  "isolation_forest_anomaly_count": 916,
+  "isolation_forest_anomaly_pct": 4.98,
+  "feature_names": [
+    "severity",
+    "occurrence",
+    "detection",
+    "functional_category",
+    "component_type",
+    "cause_type",
+    "action_priority"
+  ],
+  "rf_feature_importances": {
+    "severity": 0.412,
+    "occurrence": 0.2716,
+    "detection": 0.0496,
+    "functional_category": 0.0355,
+    "component_type": 0.0243,
+    "cause_type": 0.018,
+    "action_priority": 0.189
+  }
+}

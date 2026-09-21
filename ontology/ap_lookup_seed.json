@@ -1,0 +1,6002 @@
+[
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 1,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 2,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 3,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "Medium"
+  },
+  {
+    "severity": 4,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 5,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 6,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 7,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "Low"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "Medium"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 8,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 9,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 1,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 2,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 3,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 4,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 5,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 6,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 7,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 8,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 9,
+    "detection": 10,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 1,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 2,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 3,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 4,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 5,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 6,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 7,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 8,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 9,
+    "ap": "High"
+  },
+  {
+    "severity": 10,
+    "occurrence": 10,
+    "detection": 10,
+    "ap": "High"
+  }
+]

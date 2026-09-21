@@ -1,0 +1,7 @@
+scikit-learn==1.5.2
+joblib==1.4.2
+openpyxl==3.1.5
+# boto3 must be >=1.43.31 so botocore includes the bedrock-agentcore-control
+# service model (gateway creation) and satisfies bedrock-agentcore / starter-toolkit.
+boto3>=1.43.31
+numpy==1.26.4

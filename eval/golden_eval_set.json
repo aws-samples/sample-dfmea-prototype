@@ -1,0 +1,423 @@
+{
+  "version": "1.0.0",
+  "description": "10 hand-curated DFMEA review cases with ground-truth findings for agent evaluation",
+  "standard": "AIAG-VDA 2019",
+  "created": "2026-06-25",
+  "cases": [
+    {
+      "case_id": "GE-001",
+      "description": "B-Pillar inner — missing corrosion failure mode (S=8, O=5, D=6 → H)",
+      "assembly": "B-Pillar Assembly",
+      "variant_type": "missing_failure_mode",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "B-Pillar Inner Panel",
+          "function": "Provide side-impact structural resistance",
+          "failure_mode": "Fracture under side impact",
+          "effect": "Passenger compartment intrusion",
+          "cause": "Insufficient material gauge",
+          "severity": 9,
+          "occurrence": 3,
+          "detection": 4,
+          "action_priority": "H",
+          "current_prevention_controls": "Material spec review",
+          "current_detection_controls": "CAE simulation",
+          "recommended_action": "Increase gauge to 1.8mm",
+          "standard_citations": ["FMVSS 214"],
+          "notes": ""
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "missing_failure_mode",
+          "agent": "failure_mode",
+          "affected_component": "B-Pillar Inner Panel",
+          "description_contains": ["corrosion", "perforation"],
+          "action_priority": "H",
+          "severity_range": [7, 9],
+          "standard_citations_contain": ["FMVSS"],
+          "confidence_min": 0.7
+        }
+      ],
+      "expected_finding_count_min": 1,
+      "expected_ap_distribution": {"H": 1, "M": 0, "L": 0}
+    },
+    {
+      "case_id": "GE-002",
+      "description": "Door ring — under-scored weld failure (S=8, O=6, D=7 should be H; scored M)",
+      "assembly": "Door Ring Assembly",
+      "variant_type": "under_scored",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "Door Ring Weld Flange",
+          "function": "Transmit door seal load",
+          "failure_mode": "Weld toe cracking",
+          "effect": "Door seal loss, water ingress",
+          "cause": "Fatigue at weld toe under cyclic loading",
+          "severity": 8,
+          "occurrence": 6,
+          "detection": 7,
+          "action_priority": "M",
+          "current_prevention_controls": "Weld process FMEA",
+          "current_detection_controls": "Dye penetrant inspection",
+          "recommended_action": "Increase weld toe radius",
+          "standard_citations": ["AWS D1.1"],
+          "notes": ""
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "under_scored",
+          "agent": "failure_mode",
+          "affected_component": "Door Ring Weld Flange",
+          "description_contains": ["severity", "occurrence", "detection", "action priority"],
+          "action_priority": "H",
+          "suggested_ap": "H",
+          "confidence_min": 0.75
+        }
+      ],
+      "expected_finding_count_min": 1,
+      "expected_ap_distribution": {"H": 1, "M": 0, "L": 0}
+    },
+    {
+      "case_id": "GE-003",
+      "description": "Roof rail — missing FMVSS 216 citation for crush resistance failure mode",
+      "assembly": "Roof Rail Assembly",
+      "variant_type": "missing_citation",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "Roof Rail Outer",
+          "function": "Resist roof crush load per FMVSS 216",
+          "failure_mode": "Plastic collapse under roof crush",
+          "effect": "Occupant head space reduction",
+          "cause": "Under-designed cross-section",
+          "severity": 9,
+          "occurrence": 2,
+          "detection": 5,
+          "action_priority": "H",
+          "current_prevention_controls": "Section optimisation in CAE",
+          "current_detection_controls": "Physical crush test",
+          "recommended_action": "Increase rail section modulus",
+          "standard_citations": [],
+          "notes": "No regulatory citation provided"
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "missing_citation",
+          "agent": "regulatory",
+          "affected_component": "Roof Rail Outer",
+          "description_contains": ["FMVSS 216", "citation", "standard"],
+          "action_priority": "H",
+          "confidence_min": 0.7
+        }
+      ],
+      "expected_finding_count_min": 1,
+      "expected_ap_distribution": {"H": 1, "M": 0, "L": 0}
+    },
+    {
+      "case_id": "GE-004",
+      "description": "Sill assembly — structural gap: no failure mode for torsional buckling",
+      "assembly": "Sill Assembly",
+      "variant_type": "structural_gap",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "Sill Inner Reinforcement",
+          "function": "Resist longitudinal bending and torsion",
+          "failure_mode": "Local buckling under bending",
+          "effect": "Vehicle backbone stiffness loss",
+          "cause": "Insufficient flange width",
+          "severity": 7,
+          "occurrence": 3,
+          "detection": 5,
+          "action_priority": "M",
+          "current_prevention_controls": "FEA bending check",
+          "current_detection_controls": "Static bend test",
+          "recommended_action": "Add hat-section stiffener",
+          "standard_citations": ["ISO 26262"],
+          "notes": ""
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "structural_gap",
+          "agent": "structural",
+          "affected_component": "Sill Inner Reinforcement",
+          "description_contains": ["torsional", "buckling", "missing"],
+          "action_priority": "M",
+          "confidence_min": 0.65
+        }
+      ],
+      "expected_finding_count_min": 1,
+      "expected_ap_distribution": {"H": 0, "M": 1, "L": 0}
+    },
+    {
+      "case_id": "GE-005",
+      "description": "Strut tower — anomalous SOD (S=3, O=9, D=9 — very low severity, very high O+D → suspicious)",
+      "assembly": "Strut Tower Assembly",
+      "variant_type": "anomalous_sod",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "Strut Tower Cap",
+          "function": "Locate suspension strut upper mount",
+          "failure_mode": "Paint chip",
+          "effect": "Minor cosmetic defect",
+          "cause": "Assembly handling damage",
+          "severity": 3,
+          "occurrence": 9,
+          "detection": 9,
+          "action_priority": "M",
+          "current_prevention_controls": "None documented",
+          "current_detection_controls": "Visual inspection",
+          "recommended_action": "Add protective foam in assembly",
+          "standard_citations": [],
+          "notes": ""
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "anomalous_sod",
+          "agent": "failure_mode",
+          "affected_component": "Strut Tower Cap",
+          "description_contains": ["severity", "occurrence", "detection", "inconsistent"],
+          "action_priority": "M",
+          "confidence_min": 0.6
+        }
+      ],
+      "expected_finding_count_min": 1,
+      "expected_ap_distribution": {"H": 0, "M": 1, "L": 0}
+    },
+    {
+      "case_id": "GE-006",
+      "description": "B-Pillar outer — multiple findings: missing citation + missing failure mode (delamination)",
+      "assembly": "B-Pillar Assembly",
+      "variant_type": "missing_failure_mode",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "B-Pillar Outer Skin",
+          "function": "Provide Class-A exterior surface and side-impact contribution",
+          "failure_mode": "Dent under side impact",
+          "effect": "Cosmetic damage",
+          "cause": "Insufficient tensile strength",
+          "severity": 5,
+          "occurrence": 4,
+          "detection": 4,
+          "action_priority": "M",
+          "current_prevention_controls": "Material spec",
+          "current_detection_controls": "Pendulum test",
+          "recommended_action": "Use BH steel grade",
+          "standard_citations": [],
+          "notes": ""
+        },
+        {
+          "row_index": 1,
+          "part_name": "B-Pillar Outer Skin",
+          "function": "Provide Class-A exterior surface",
+          "failure_mode": "Paint delamination",
+          "effect": "Corrosion initiation",
+          "cause": "Insufficient phosphating adhesion",
+          "severity": 6,
+          "occurrence": 3,
+          "detection": 5,
+          "action_priority": "L",
+          "current_prevention_controls": "E-coat process spec",
+          "current_detection_controls": "Salt spray test",
+          "recommended_action": "Tighten phosphating bath chemistry",
+          "standard_citations": ["SAE J2334"],
+          "notes": ""
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "missing_citation",
+          "agent": "regulatory",
+          "affected_component": "B-Pillar Outer Skin",
+          "description_contains": ["citation", "FMVSS"],
+          "action_priority": "M",
+          "confidence_min": 0.65
+        },
+        {
+          "finding_type": "missing_failure_mode",
+          "agent": "failure_mode",
+          "affected_component": "B-Pillar Outer Skin",
+          "description_contains": ["delamination", "adhesion", "bonding"],
+          "action_priority": "M",
+          "confidence_min": 0.6
+        }
+      ],
+      "expected_finding_count_min": 2,
+      "expected_ap_distribution": {"H": 0, "M": 2, "L": 0}
+    },
+    {
+      "case_id": "GE-007",
+      "description": "Roof rail — over-scored cosmetic failure (S=1, O=2, D=3 → actual AP=L, scored H)",
+      "assembly": "Roof Rail Assembly",
+      "variant_type": "over_scored",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "Roof Rail Drip Channel",
+          "function": "Channel rainwater away from door aperture",
+          "failure_mode": "Surface rust on drip channel",
+          "effect": "Minor cosmetic rust staining on door aperture",
+          "cause": "Missing wax injection in channel",
+          "severity": 1,
+          "occurrence": 2,
+          "detection": 3,
+          "action_priority": "H",
+          "current_prevention_controls": "Wax injection process",
+          "current_detection_controls": "Corrosion chamber test",
+          "recommended_action": "Re-check AP — appears over-scored",
+          "standard_citations": [],
+          "notes": "AP=H looks inconsistent with S=1"
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "over_scored",
+          "agent": "failure_mode",
+          "affected_component": "Roof Rail Drip Channel",
+          "description_contains": ["severity", "action priority", "over-scored", "inconsistent"],
+          "action_priority": "L",
+          "suggested_ap": "L",
+          "confidence_min": 0.75
+        }
+      ],
+      "expected_finding_count_min": 1,
+      "expected_ap_distribution": {"H": 0, "M": 0, "L": 1}
+    },
+    {
+      "case_id": "GE-008",
+      "description": "Sill assembly — missing ISO 26262 functional safety citation for electronic seat-belt load-limiter interface",
+      "assembly": "Sill Assembly",
+      "variant_type": "missing_citation",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "Sill Mounting Bracket (SBR interface)",
+          "function": "Anchor seat belt retractor to body structure",
+          "failure_mode": "Bracket fracture under belt load",
+          "effect": "SBR anchor failure; occupant ejection risk",
+          "cause": "Weld fatigue at root under crash loading",
+          "severity": 10,
+          "occurrence": 2,
+          "detection": 3,
+          "action_priority": "H",
+          "current_prevention_controls": "Load case FEA",
+          "current_detection_controls": "Physical sled test to FMVSS 210",
+          "recommended_action": "Increase fillet weld leg",
+          "standard_citations": ["FMVSS 210"],
+          "notes": "Missing ISO 26262 citation for functional safety"
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "missing_citation",
+          "agent": "regulatory",
+          "affected_component": "Sill Mounting Bracket (SBR interface)",
+          "description_contains": ["ISO 26262", "functional safety"],
+          "action_priority": "H",
+          "confidence_min": 0.7
+        }
+      ],
+      "expected_finding_count_min": 1,
+      "expected_ap_distribution": {"H": 1, "M": 0, "L": 0}
+    },
+    {
+      "case_id": "GE-009",
+      "description": "Strut tower — structural gap: no failure mode for strut bearing seizure",
+      "assembly": "Strut Tower Assembly",
+      "variant_type": "structural_gap",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "Strut Upper Mount Plate",
+          "function": "Transfer strut loads to body; allow strut rotation",
+          "failure_mode": "Plate cracking at weld toe",
+          "effect": "Strut misalignment; steering pull",
+          "cause": "Fatigue under suspension travel",
+          "severity": 7,
+          "occurrence": 3,
+          "detection": 4,
+          "action_priority": "M",
+          "current_prevention_controls": "Fatigue FEA",
+          "current_detection_controls": "Durability rig test",
+          "recommended_action": "Add fillet at weld toe",
+          "standard_citations": ["SAE J1099"],
+          "notes": ""
+        }
+      ],
+      "expected_findings": [
+        {
+          "finding_type": "structural_gap",
+          "agent": "structural",
+          "affected_component": "Strut Upper Mount Plate",
+          "description_contains": ["bearing", "seizure", "rotation", "missing"],
+          "action_priority": "M",
+          "confidence_min": 0.6
+        }
+      ],
+      "expected_finding_count_min": 1,
+      "expected_ap_distribution": {"H": 0, "M": 1, "L": 0}
+    },
+    {
+      "case_id": "GE-010",
+      "description": "Door ring — valid rows with no findings expected (all AP correct, all citations present)",
+      "assembly": "Door Ring Assembly",
+      "variant_type": "valid",
+      "input_rows": [
+        {
+          "row_index": 0,
+          "part_name": "Door Ring Hinge Pillar",
+          "function": "Resist door hinge loads and side-impact forces",
+          "failure_mode": "Column buckling under side impact",
+          "effect": "Hinge pillar intrusion into occupant zone",
+          "cause": "Insufficient cross-section area",
+          "severity": 9,
+          "occurrence": 2,
+          "detection": 4,
+          "action_priority": "H",
+          "current_prevention_controls": "Material spec + section optimisation",
+          "current_detection_controls": "Full-barrier side impact test (FMVSS 214)",
+          "recommended_action": "None — current controls adequate",
+          "standard_citations": ["FMVSS 214", "ECE R95"],
+          "notes": "Well-documented; all citations present"
+        },
+        {
+          "row_index": 1,
+          "part_name": "Door Ring Hinge Pillar",
+          "function": "Provide corrosion resistance for 12-year warranty",
+          "failure_mode": "Perforation corrosion at weld joint",
+          "effect": "Structural integrity loss",
+          "cause": "Galvanic couple at steel–aluminium interface",
+          "severity": 7,
+          "occurrence": 3,
+          "detection": 5,
+          "action_priority": "M",
+          "current_prevention_controls": "Isolation tape + primer",
+          "current_detection_controls": "CASS 1000h test to SAE J2334",
+          "recommended_action": "None — current controls adequate",
+          "standard_citations": ["SAE J2334", "ISO 9227"],
+          "notes": ""
+        }
+      ],
+      "expected_findings": [],
+      "expected_finding_count_min": 0,
+      "expected_finding_count_max": 1,
+      "expected_ap_distribution": {"H": 0, "M": 0, "L": 0},
+      "note": "Valid rows — expect zero or at most 1 minor finding. Used to measure false positive rate."
+    }
+  ],
+  "evaluation_thresholds": {
+    "precision_min": 0.70,
+    "recall_min": 0.65,
+    "f1_min": 0.67,
+    "false_positive_rate_max": 0.20
+  }
+}

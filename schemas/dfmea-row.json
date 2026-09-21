@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dfmea.example.com/schemas/dfmea-row.json",
+  "title": "DFMEARow",
+  "description": "A single normalised row from an AIAG-VDA 2019 DFMEA worksheet",
+  "type": "object",
+  "required": ["item_number", "part_name", "function", "failure_mode", "effect", "severity", "cause", "occurrence", "detection"],
+  "properties": {
+    "item_number":                  {"type": "string"},
+    "part_name":                    {"type": "string", "minLength": 1},
+    "function":                     {"type": "string", "minLength": 1},
+    "failure_mode":                 {"type": "string", "minLength": 1},
+    "effect":                       {"type": "string", "minLength": 1},
+    "severity":                     {"type": "integer", "minimum": 1, "maximum": 10},
+    "cause":                        {"type": "string", "minLength": 1},
+    "occurrence":                   {"type": "integer", "minimum": 1, "maximum": 10},
+    "current_prevention_controls":  {"type": "string"},
+    "current_detection_controls":   {"type": "string"},
+    "detection":                    {"type": "integer", "minimum": 1, "maximum": 10},
+    "action_priority":              {"type": "string", "enum": ["High", "Medium", "Low"]},
+    "recommended_action":           {"type": "string"},
+    "responsibility":               {"type": "string"},
+    "target_completion_date":       {"type": "string", "format": "date"},
+    "anchor_ref":                   {"type": "string", "description": "Named anchor from CAD extraction"},
+    "bom_part_number":              {"type": "string", "description": "Linked BOM part number if available"},
+    "interface_id":                 {"type": "string", "description": "Linked interface matrix ID if available"}
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,13 @@
+part_number,part_name,material,gauge_mm,supplier,mass_kg,assembly,quantity,function
+10001,B-Pillar Inner Panel,DP780,1.6,Supplier-A,2.40,B-Pillar Assembly,1,Side-impact resistance and structural backbone
+10002,B-Pillar Outer Skin,BH340,0.75,Supplier-A,1.10,B-Pillar Assembly,1,Class-A exterior surface
+10003,B-Pillar Reinforcement,PHS1500,1.5,Supplier-B,1.85,B-Pillar Assembly,1,Side-impact load path enhancement
+10004,Upper Hinge Reinforcement,DP600,2.0,Supplier-A,0.62,B-Pillar Assembly,2,Door hinge load distribution
+10005,Lower Hinge Reinforcement,DP600,2.0,Supplier-A,0.55,B-Pillar Assembly,2,Door hinge load distribution
+10006,Belt Anchor Reinforcement,DP800,3.0,Supplier-C,0.78,B-Pillar Assembly,1,Seat-belt anchor structural support
+10007,Striker Reinforcement,PHS1500,2.5,Supplier-B,0.45,B-Pillar Assembly,2,Door latch striker mounting
+10008,Seam Sealer — Inner,MS-Polymer,-,Supplier-D,0.12,B-Pillar Assembly,1,Corrosion sealing at inner panel hem
+10009,Seam Sealer — Outer,MS-Polymer,-,Supplier-D,0.08,B-Pillar Assembly,1,Corrosion sealing at outer skin hem
+10010,Spot Weld Flange (upper),DP780,1.6,Supplier-A,0.15,B-Pillar Assembly,1,Structural continuity to roof rail
+10011,Spot Weld Flange (lower),DP780,1.6,Supplier-A,0.18,B-Pillar Assembly,1,Structural continuity to sill
+10012,Wax Injection Port,Steel,-,Supplier-E,0.01,B-Pillar Assembly,2,Internal cavity corrosion protection access
