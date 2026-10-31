@@ -1,4 +1,4 @@
-strands-agents==0.1.7
+strands-agents==1.48.0
 strands-agents-tools==0.1.7
 boto3>=1.43.31
 openpyxl>=3.1.0
